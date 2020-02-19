@@ -1,4 +1,4 @@
-# How to Create a BungeeCord Server on Debian 9!
+# SaveConnectionPE: Create a MC Server on Debian 9
 ### Hier zeige ich wie man einen BungeeCord Server ganz einfach für Debian 9 installiert :D
 
 
@@ -8,7 +8,7 @@
 
 dann (**falls vorhanden**) auf dem (S)FTP bzw. **vServer** anmelden!
 
-*Ich finde da:* <a href="https://minehub.de/v-server/v-server-mieten/"><img src="https://minehub.de/static/web/img/meta/favicon-32x32.png" alt="Minehub.de"></a> (*Minehub.de*) <font color="#ff000">empfehlenswert!</font>
+*Ich finde da:* <a href="https://minehub.de/v-server/v-server-mieten/"><img src="https://minehub.de/static/web/img/meta/favicon-32x32.png" alt="Minehub.de"></a> (*Minehub.de*) <font color="green">empfehlenswert!</font>
 
 Wenn du angemeldet bist, klickst du oben auf die 2 ``.`` und nun sind ganz viele Ordner zu sehen!
 Dann suchst du nach einem Ordner namens: ``home`` und klickst da drauf!
